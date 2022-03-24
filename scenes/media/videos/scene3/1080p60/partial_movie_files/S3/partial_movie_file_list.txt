@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/Documents/Development/informatik/machine-learning/scenes/media/videos/scene3/1080p60/partial_movie_files/S3/450974505_3493041802_4101073582.mp4'
+file 'file:D:/Documents/Development/informatik/machine-learning/scenes/media/videos/scene3/1080p60/partial_movie_files/S3/450974505_1843281963_878788367.mp4'
+file 'file:D:/Documents/Development/informatik/machine-learning/scenes/media/videos/scene3/1080p60/partial_movie_files/S3/34786186_512580572_1407528020.mp4'
+file 'file:D:/Documents/Development/informatik/machine-learning/scenes/media/videos/scene3/1080p60/partial_movie_files/S3/34786186_398514950_2325354704.mp4'
+file 'file:D:/Documents/Development/informatik/machine-learning/scenes/media/videos/scene3/1080p60/partial_movie_files/S3/34786186_1881349848_3584822775.mp4'
+file 'file:D:/Documents/Development/informatik/machine-learning/scenes/media/videos/scene3/1080p60/partial_movie_files/S3/34786186_120073445_1768532766.mp4'
+file 'file:D:/Documents/Development/informatik/machine-learning/scenes/media/videos/scene3/1080p60/partial_movie_files/S3/34786186_4166632147_3803051578.mp4'
+file 'file:D:/Documents/Development/informatik/machine-learning/scenes/media/videos/scene3/1080p60/partial_movie_files/S3/34786186_171124708_2300607223.mp4'
+file 'file:D:/Documents/Development/informatik/machine-learning/scenes/media/videos/scene3/1080p60/partial_movie_files/S3/34786186_398514950_3815787369.mp4'

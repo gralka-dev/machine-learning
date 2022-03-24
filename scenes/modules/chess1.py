@@ -4,7 +4,8 @@ from manim import *
 class Test(Scene):
     def construct(self):
 
-        figure1 = SVGMobject(file_name="figure1.svg").set_color(BLACK).set_stroke(color=BLUE, width=5).scale(1.5)
+        figure1 = SVGMobject(file_name="figure1.svg").set_color(BLACK).set_stroke(color=BLUE, width=5).scale(1.5).set_z_index(2)
+        circle = Circle(radius=0.5, color=BLACK).set_stroke(color=BLUE, width=5).set_z_index(1)
 
         timeline_line = Line(LEFT * 5, RIGHT * 5, color=YELLOW).set_stroke(width=3)
         up_line_1 = Line(UP * 0.1, DOWN * 0.1).set_stroke(color=YELLOW, width=3).next_to(timeline_line, LEFT - LEFT * 0.999)
@@ -20,7 +21,8 @@ class Test(Scene):
         self.wait(2)
         self.play(
             #figure1.animate.shift(DOWN).scale(0.5),
-            Transform(figure1, timeline)
+            Write (circle),
+            Write(timeline),
         )
         self.wait(2)
 

@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/Documents/Development/informatik/machine-learning/scenes/scene3/media/videos/game2/1080p60/partial_movie_files/S2/450974505_3587666349_3659078268.mp4'
+file 'file:D:/Documents/Development/informatik/machine-learning/scenes/scene3/media/videos/game2/1080p60/partial_movie_files/S2/34786186_139647569_2508768309.mp4'
+file 'file:D:/Documents/Development/informatik/machine-learning/scenes/scene3/media/videos/game2/1080p60/partial_movie_files/S2/34786186_3843188106_2831266890.mp4'
+file 'file:D:/Documents/Development/informatik/machine-learning/scenes/scene3/media/videos/game2/1080p60/partial_movie_files/S2/34786186_977214872_464917443.mp4'
