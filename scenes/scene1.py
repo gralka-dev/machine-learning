@@ -27,12 +27,12 @@ class S1(Scene):
             Write (circle),
             Write(timeline),
         )
-        self.wait(2)
+        self.wait(10)
         self.play(
             Unwrite(timeline),
             Unwrite(circle),
         )
-        self.wait()
+        self.wait(3)
 
         figure1_c1 = figure1.copy()
         figure1_c2 = figure1.copy()

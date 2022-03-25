@@ -96,7 +96,7 @@ class S2(Scene):
 
         chessboard = VGroup(lines_vert, lines_hor, dots, labels_vert, labels_hor, pieces, dots)
 
-        self.wait(2)
+        self.wait(16)
 
         surrec = SurroundingRectangle(c1, buff=0.3)
         dummy = attacker.copy().move_to(get_location(6))
@@ -119,7 +119,7 @@ class S2(Scene):
 
         surrec = SurroundingRectangle(b3, buff=0.3)
 
-        self.wait(2)
+        self.wait(3)
 
         self.play(
             Write(surrec),
