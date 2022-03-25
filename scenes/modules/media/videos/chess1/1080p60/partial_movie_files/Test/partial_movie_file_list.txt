@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/Documents/Development/informatik/machine-learning/scenes/modules/media/videos/chess1/1080p60/partial_movie_files/Test/450974505_2839631542_4101073582.mp4'
+file 'file:D:/Documents/Development/informatik/machine-learning/scenes/modules/media/videos/chess1/1080p60/partial_movie_files/Test/450974505_328415765_3432321939.mp4'
+file 'file:D:/Documents/Development/informatik/machine-learning/scenes/modules/media/videos/chess1/1080p60/partial_movie_files/Test/34786186_1152718458_185585046.mp4'
+file 'file:D:/Documents/Development/informatik/machine-learning/scenes/modules/media/videos/chess1/1080p60/partial_movie_files/Test/34786186_1577238010_2178817359.mp4'
+file 'file:D:/Documents/Development/informatik/machine-learning/scenes/modules/media/videos/chess1/1080p60/partial_movie_files/Test/34786186_1152718458_1807079475.mp4'

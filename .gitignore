@@ -113,6 +113,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-*.mp4
+# *.mp4
 
-scenes/modules/media/*
+# scenes/modules/media/*
